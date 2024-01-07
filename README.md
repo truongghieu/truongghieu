@@ -19,5 +19,5 @@ C#, Unity, Python
 - Email: chippstudio@gmail.com
 - Hugging Face: https://huggingface.co/truongghieu
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=truongghieu&show_icons=true&theme=radical)
+## Languages directly used in my projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongghieu&layout=compact)]
