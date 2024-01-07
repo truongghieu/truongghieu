@@ -20,4 +20,4 @@ C#, Unity, Python
 - Hugging Face: https://huggingface.co/truongghieu
 
 ## Languages directly used in my projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongghieu&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongghieu&layout=compact&theme=radical)
