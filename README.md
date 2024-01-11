@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🚀 About Me
-I'm a Unity Game Developer and a Computer Science student at University of Technology, Vietnam National University - Ho Chi Minh City. I'm currently working on a 2D game project using Unity and C#.
+I'm a Unity Game Developer and a Telecomunication and Electronic student at University of Technology, Vietnam National University - Ho Chi Minh City. I'm currently working on a 2D game project using Unity and C#.
 
 ## 🛠 Skills
 C#, Unity, Python
